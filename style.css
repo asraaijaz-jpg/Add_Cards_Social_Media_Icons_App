@@ -1,0 +1,220 @@
+
+@media(min-width:320px) and (max-width:480px){
+}
+
+  /* ////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media(min-width:481px) and (max-width:768px){
+}
+
+  /* //////////////////////////////////////////////// Mobile View ////////////////////////////////////////////////////////////// */
+
+@media(min-width:769px) and (max-width:1024px){
+
+  .fontstyling1{
+  width: 30%;
+  }
+  .fontstyling2{
+    font-size: 55px;
+  }
+  .vertalign{
+margin-top: 80%;
+  }
+  .modalwidth{
+    width:1360px;
+    margin-left: -430px;
+    margin-top: -29px;
+    /* height: 2225px; */
+    height: auto;
+  }
+  .img1{
+    margin-top: 70px;
+    width: 40%;
+    height: auto;
+  }
+  .img2{
+    width: 7%;
+    height: auto;
+  }
+  .font1{
+    margin-top: 200px;
+    font-size: 55px;
+  }
+  .font2{
+    font-size: 45px;
+  }
+  .font3{
+    margin-top: 80px;
+    font-size: 50px;
+  }
+  .socialapp{
+    margin-top: 50px;
+    width: 80%;
+    height: 80%;
+  }
+  .modalwidth2{
+    margin-left: -230px;
+    margin-top: 220%;
+    /* margin-top: 270%; */
+    /* margin-top: 1400px; */
+    width: 1000px;
+    height: 800px;
+  }
+  .modalwidth3{
+    margin-left: -190px;
+    margin-top: 328px;
+    width: 900px;
+    height: auto;
+  }
+  #placeimage{
+    width:17%;
+    height: auto;
+  }
+  #placeimageicon{
+    width:17%;
+    height: auto;
+  }
+  #placeimage1{
+    width:20%;
+    height: 72%;
+  }
+  .incsize
+  {
+    font-size: 50px;
+    margin-left: -440px;
+    margin-top: 230px;
+  }
+  .increase{
+    font-size: 50px;
+  }
+  .increase2{
+    font-size: 70px;
+  }
+  p{
+    font-size: 45px;
+  }
+  .socialapp2{
+    width: 67%;
+    height: auto;
+  }
+  #divwidth{
+    width: 90%;
+  }
+  .icon{
+    width: 80px;
+    height: auto;
+  }
+  #movebtn{
+  margin-left: -880px;
+  }
+  .pencilicon{
+    font-size:60px;
+    margin-left: -35px;
+    margin-top: -270px;
+  }
+  .gapindisplay{
+    gap:80px;
+  }
+}
+
+/* ////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media(min-width:1025px) and (max-width:1200px){
+}
+
+/* ///////////////////////////////////////////////// Web View////////////////////////////////////////////////// */
+
+
+@media(min-width:1201px){
+
+  .fontstyling1{
+   width: 12%;
+  }
+  .fontstyling2{
+    font-size: 18px;
+  }
+  .vertalign{
+margin-top: 13%;
+  }
+  .modalwidth{
+    width:1360px;
+    margin-left: -430px;
+    margin-top: -29px;
+    /* height: 625px; */
+    height: auto;
+  }
+  .img1{
+    width: 20%;
+    height: auto;
+  }
+  .img2{
+    width: 6%;
+    height: auto;
+  }
+  .font1{
+    font-size: 30px;
+  }
+  .font3{
+    font-size: 30px;
+  }
+  .font2{
+    font-size: 20px;
+  }
+  .socialapp{
+    width: 30%;
+    height: auto;
+  }
+  .socialapp2{
+    width: 47%;
+    height: auto;
+  }
+  .modalwidth2{
+    margin-left: -30px;
+    margin-top: 211px;
+  }
+  .modalwidth3{
+    margin-left: -30px;
+    margin-top: 0px;
+  }
+  #placeimage{
+    width:15%;
+    height: auto;
+  }
+  #placeimageicon{
+    width:15%;
+    height: auto;
+  }
+  #placeimage1{
+    width:6%;
+    height: 74%;
+  }
+  .increase2{
+    margin-top: 6px;
+  }
+  .incsize
+  {
+    font-size: 18px;
+    margin-top: 90px;
+    margin-left: -200px;
+  }
+  .icon{
+    width: 20px;
+    height: auto;
+  }
+  #movebtn{
+    margin-left: -1300px;
+    }
+    .pencilicon{
+      font-size:18px;
+      margin-left: -60px;
+      margin-top: -160px;
+    }
+    .btnMod{
+      margin-left: 700px;
+      /* width: 100px;
+      height: auto; */
+    }
+    .gapindisplay{
+      gap:40px;
+    }
+}
